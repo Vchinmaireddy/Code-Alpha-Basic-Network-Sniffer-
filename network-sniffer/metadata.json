@@ -1,0 +1,6 @@
+{
+  "name": "Network sniffer",
+  "description": "An interactive network packet sniffing simulator and educational tool with AI-powered traffic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
